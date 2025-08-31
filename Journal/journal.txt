@@ -1,0 +1,154 @@
+April 15, 2025
+
+19:10 P.M.
+
+Abed added new instructions for testing.
+
+19:25 P.M.
+
+Noor added RV32IM instruction support.
+
+19:50 P.M.
+
+Omar fixed the branchOrNot signal bug.
+
+April 16, 2025
+
+20:15 P.M.
+
+Noor fixed the hazard unit stall display issue.
+
+20:40 P.M.
+
+Abed worked on the instruction fetch stage.
+
+21:00 P.M.
+
+Omar fixed forwarding unit logic.
+
+April 17, 2025
+
+21:30 P.M.
+
+Noor updated the ALU for shift and fixed-point operations.
+
+22:00 P.M.
+
+Noor fixed the memory write issue.
+
+April 18, 2025
+
+22:30 P.M.
+
+Abed worked on improving instruction handling.
+
+23:00 P.M.
+
+Omar fixed load-use hazards.
+
+April 19, 2025
+
+23:30 P.M.
+
+Noor worked on forwarding paths.
+
+April 20, 2025
+
+00:00 A.M.
+
+Abed tested new instructions.
+
+00:30 A.M.
+
+Noor adjusted timing in the hazard unit.
+
+April 21, 2025
+
+01:00 A.M.
+
+Omar cleaned up instruction decode logic.
+
+April 22, 2025
+
+01:30 A.M.
+
+Noor fixed race conditions in forwarding paths.
+
+April 23, 2025
+
+02:00 A.M.
+
+Abed optimized pipeline to reduce stalls.
+
+April 24, 2025
+
+02:30 A.M.
+
+Omar worked on the ALU overflow handling.
+
+April 25, 2025
+
+03:00 A.M.
+
+Noor debugged memory access issues.
+
+April 26, 2025
+
+03:30 A.M.
+
+Abed added debug prints to the decode stage.
+
+April 27, 2025
+
+04:00 A.M.
+
+Omar fixed edge cases in control signals.
+
+April 28, 2025
+
+19:10 P.M.
+
+Abed tested instruction format for alignment issues.
+
+April 29, 2025
+
+19:45 P.M.
+
+Noor fixed stale data in register file.
+
+April 30, 2025
+
+20:30 P.M.
+
+Omar added more debug tools.
+
+May 1, 2025
+
+21:00 P.M.
+
+Noor fixed instruction execution order bug.
+
+May 2, 2025
+
+22:00 P.M.
+
+Abed tested with random instructions.
+
+May 3, 2025
+
+23:00 P.M.
+
+Omar reviewed hazard detection pipeline.
+
+May 4, 2025
+
+00:00 A.M.
+
+Noor added diagnostic prints for instruction queue.
+
+May 5, 2025
+
+01:00 A.M.
+
+Abed added a new test case for stress testing.
+
